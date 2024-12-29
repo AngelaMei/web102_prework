@@ -29,6 +29,8 @@ Here's a walkthrough of implemented features:
 
 Describe any challenges encountered while building the app.
 
+It is hard to understand the instruction sometimes, amd the online instruction password system is not working, have to work on the offline one.
+
 ## License
 
     Copyright [yyyy] [name of copyright owner]
