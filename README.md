@@ -17,7 +17,10 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [x] Change the color theme
+* [x] Add favicon and title
+* [x] Add menu / navbar for quick access
+* [x] Change button cursor
 
 ## Video Walkthrough
 
